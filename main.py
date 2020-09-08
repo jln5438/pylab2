@@ -5,7 +5,6 @@
 # Section:2
 # Breakout:4
 def getLetterGrade(grade):
-  grade=float(input("Enter your CMPSC 131 grade: "))
   letter="F"
   if(grade>=93.0):
     print("Your letter grade for CMPSC 131 is A.")
