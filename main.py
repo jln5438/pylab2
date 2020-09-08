@@ -39,4 +39,7 @@ def run():
   grade=float(input("Enter your CMPSC 131 grade: "))
   getLetterGrade(grade)
 
+if __name__=="__main__":
+  run()
+
   
